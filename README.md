@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**WenZhun/WenZhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent developer working on personal projects in financial 
+data analysis, automation, and home infrastructure tooling.
 
-Here are some ideas to get you started:
+## Public projects
+- [**openbb-stack**](https://github.com/WenZhun/openbb-stack) — 
+  A self-hosted financial data lake for personal market research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Private projects
+A handful of small hobby projects I keep private (home server scripts, 
+notes systems, etc). Not interesting enough to share.
+
+## Tech stack
+Python · TypeScript · FastAPI · Cloudflare · Linux
